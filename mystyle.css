@@ -1,0 +1,43 @@
+
+body {
+    background-image: url("imagenes/img.jpg") ;
+    background-size: cover;
+} 
+
+div.titulo {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+div.texto {
+    text-align: center;
+}
+div.gustos {
+    text-align: center;
+}
+.yo {
+    height: 200px;
+    image-rendering: auto;
+}
+#yop{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.texto { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+div.gustos {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imagen {
+    height: 80px;
+}
+#texto {
+    font-size:larger;
+}
+#gustos {
+    font-size: larger;
+}
+.fotos {
+    height: 100px ;
+}
